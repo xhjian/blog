@@ -25,3 +25,6 @@ Copy Translator 是使用Rust编写的翻译小工具
 
 - 简洁：没有花哨的界面，平时不使用时隐藏在后台，不会干扰正常的工作和学习。
 - 简便：只需要两个快捷键：`ctrl+q`和`esc`。
+
+## 升级版本
+仓库：[Foreign language reading and translation assistant based on copy and translate. ](https://github.com/CopyTranslator/CopyTranslator)
